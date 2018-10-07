@@ -12,7 +12,7 @@ NoteCrypt requires only the enablement of storage permission.
 
 The information that may be collected with the enablement of this permission is stored locally on the device and the developer has no access to that information.
 
-This permission can be revoked when it is not needed, this is privy to only devices running Android 6.0 upward.
+This permission can be revoked when it is not needed, this is privy to only devices running Android 6.0 upward. <hr>
 
 
 ## Types of Data Collected
@@ -43,7 +43,7 @@ This software is intended for general use and has no restrictions on utilization
 
 ## Links To Other Sites
 
-NoteCrypt does not contain links to any other service provider.The software works independently on it's own.
+NoteCrypt does not contain links to any other service provider. The software works independently on it's own.
  <hr>
 
 ## Changes To This Privacy Policy
