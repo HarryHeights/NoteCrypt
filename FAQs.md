@@ -19,7 +19,7 @@ NoteCrypt has quite a handful of features they include;
 
 **What is the minimum length of characters to set a password?**
 
-- The minimum password for a database is one character, however, it's not advisable to secure a database with just a single digit or alphabet. NoteCrypt allows numeric and alphabetic password entry. For more security, create a password mixed with alphabets and numbers up to 8 characters.
+- The minimum password for a database is one character, however, it's not advisable to secure a database with just a single digit or alphabet. NoteCrypt allows numeric and alphabetic password entry. For more security, create a password mixed with alphabets and numbers at least 8 characters.
 
 **Can I change my database password at a later time?**
 
@@ -68,7 +68,7 @@ To mark a note as important or favorite note,
 
 **Can I make a manual backup of my database?** 
 
-- Yes, you can make a manual backup of a note database. The database is stored in a location on your device storage name ```NoteCrypt```. From that folder, you can see all your database file and can copy them to another location or send to your cloud storage.
+- Yes, you can make a manual backup of a note database. The database is stored in a location on your device storage named ```NoteCrypt```. From that folder, you can see all your database file and can copy them to another location or send to your cloud storage.
 
 **I'm changing my phone, can I transfer my notes?**
 
